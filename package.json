@@ -1,0 +1,23 @@
+{
+  "name": "security-sample-server",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "netlify-lambda": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:lambda": "netlify-lambda serve lambda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esafirm/security-sample-server.git"
+  },
+  "author": "esafirm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esafirm/security-sample-server/issues"
+  },
+  "homepage": "https://github.com/esafirm/security-sample-server#readme"
+}
