@@ -2,33 +2,33 @@ const utils = require('./utils')
 const ITEMS = [
     {
         id: 1,
-        name: 'HP Jadoel Sekali',
+        name: 'Sprint Samsung Galaxy S II, Epic 4G Touch',
         harga: 3000,
-        deskripsi: 'Ini hape jadoel sekali'
+        deskripsi: "Mohon Wajib Di BACA and Sebelum Order di Fionflanshop -Tolong Bertanya Dulu Sebelum Transaksi Barang yang dipajang belum tentu ada Stock Jam online kami jam 09.00 - 00.00 (Bisa Juga Berubah) Karena kami juga manusia dan punya kesibukan lain, jika kami tidak mambalas diskusi/ pesan Anda,"
     },
     {
         id: 2,
-        name: 'HP Jadoel Dua kali',
+        name: 'Acer Liquid Zest Plus 4s Super',
         harga: 3000,
-        deskripsi: 'Ini hape jadoel sekali'
+        deskripsi: 'Mohon Wajib Di BACA and Sebelum Order di Fionflanshop -Tolong Bertanya Dulu Sebelum Transaksi Barang yang dipajang belum tentu ada Stock Jam online kami jam 09.00 - 00.00 (Bisa Juga Berubah) Karena kami juga manusia dan punya kesibukan lain, jika kami tidak mambalas diskusi/ pesan Anda,'
     },
     {
         id: 3,
-        name: 'HP Jadoel Tiga kali',
+        name: 'LG G7 ThinQ 256 Beast Mode',
         harga: 3000,
-        deskripsi: 'Ini hape jadoel sekali'
+        deskripsi: 'Mohon Wajib Di BACA and Sebelum Order di Fionflanshop -Tolong Bertanya Dulu Sebelum Transaksi Barang yang dipajang belum tentu ada Stock Jam online kami jam 09.00 - 00.00 (Bisa Juga Berubah) Karena kami juga manusia dan punya kesibukan lain, jika kami tidak mambalas diskusi/ pesan Anda,'
     },
     {
         id: 4,
-        name: 'HP Jadoel Empat kali',
+        name: 'HTC ChaCha Evo 11XV',
         harga: 3000,
-        deskripsi: 'Ini hape jadoel sekali'
+        deskripsi: 'Mohon Wajib Di BACA and Sebelum Order di Fionflanshop -Tolong Bertanya Dulu Sebelum Transaksi Barang yang dipajang belum tentu ada Stock Jam online kami jam 09.00 - 00.00 (Bisa Juga Berubah) Karena kami juga manusia dan punya kesibukan lain, jika kami tidak mambalas diskusi/ pesan Anda,'
     },
     {
         id: 5,
-        name: 'HP Jadoel Lima Kali',
+        name: "Casio G'zOne Commando 10 Evo X",
         harga: 3000,
-        deskripsi: 'Ini hape jadoel sekali'
+        deskripsi: 'Mohon Wajib Di BACA and Sebelum Order di Fionflanshop -Tolong Bertanya Dulu Sebelum Transaksi Barang yang dipajang belum tentu ada Stock Jam online kami jam 09.00 - 00.00 (Bisa Juga Berubah) Karena kami juga manusia dan punya kesibukan lain, jika kami tidak mambalas diskusi/ pesan Anda,'
     }
 ]
 
